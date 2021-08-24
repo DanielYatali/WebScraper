@@ -13,7 +13,7 @@
 
 ## What I Learnt:
 * Simple Web-Scrapping with Python.
-* How to scrapes links and other data from websites.
+* How to scrape links and other data from websites.
 * Also learnt how to automate the process.
 
 
