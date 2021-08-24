@@ -10,4 +10,11 @@
 * Open command prompt/powershell.
 * Navigate to the folder with main.py.
 * Execute command python main.py.
+
+## What I Learnt:
+* Simple Web-Scrapping with Python.
+* How to scrapes links and other data from websites.
+* Also learnt how to automate the process.
+
+
 ### `Enjoy` 😊.
