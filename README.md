@@ -1,5 +1,5 @@
-# WebScrapper
-## Simple WebScrapper. 
+# WebScraper
+## Simple WebScraper. 
 * Scrapes the latest Movies from the website [Fbox](https://ffbox.org).
 
 * Utilizing the name of each movie the program searches google for the movie's trailer.
@@ -12,7 +12,7 @@
 * Execute command python main.py.
 
 ## What I Learnt:
-* Simple Web-Scrapping with Python.
+* Simple Web-Scraping with Python.
 * How to scrape links and other data from websites.
 * Also learnt how to automate the process.
 
